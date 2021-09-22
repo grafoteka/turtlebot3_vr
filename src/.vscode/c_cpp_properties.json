@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/jorge/ws/ros1_ws/home_ugv/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/jorge/ws/ros1_ws/home_ugv/src/rosserial/rosserial_server/include/**",
+        "/home/jorge/ws/ros1_ws/home_ugv/src/rosserial/rosserial_test/include/**",
+        "/home/jorge/ws/ros1_ws/home_ugv/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/jorge/ws/ros1_ws/home_ugv/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/jorge/ws/ros1_ws/home_ugv/src/turtlebot3/turtlebot3_slam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
